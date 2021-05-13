@@ -1,4 +1,4 @@
-<font color='blue'> Verification Overview </font>
+<font color='#d73a48'> Verification Overview </font>
 
 Verification plays a vital role in upholding the integrity and quality of the data reported to both mandatory and voluntary GHG programs across the world.
 
