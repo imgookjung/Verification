@@ -1,22 +1,14 @@
-<font color='#d73a48'> Verification Overview </font>
+# S2S Verification Tool
 
-Verification plays a vital role in upholding the integrity and quality of the data reported to both mandatory and voluntary GHG programs across the world.
+## 1. Overview
+General introduction to S2S Verification tools described here!
 
-## Contributors
-Contributors how made this methodology codes
+## 2. Contents
+> (1) Deterministic
+> (2) Probabilistic
+> (3) and so forth
 
-## How to cite
-[Verification] : Climate Action Reserve
-
-## Issues
-### Patch note
-Please use the templates provided in the "Issues" tab to request improvements to Verification. Requests are priritized and will be addressed as soon as possible.
-
-## Acknowledgements
-
-Acknowledgement about verification method
-
-## Installation Instructions
+## 3. Installation Instructions
 See the "[Wiki]" tab for detailed instructions
 
 example)
@@ -25,13 +17,24 @@ It might be useful --but not at all required-- to use the provided iri-dev.yml c
 conda env create -f iri-dev.yml
 ```
 
-## Examples
+## 4. Examples
 How to run this codes
 ```sh
 Verification(Parameter,...)
 ```
 
-## Disclaimer
+## 5. Issues
+### Patch note
+Please use the templates provided in the "Issues" tab to request improvements to Verification. Requests are priritized and will be addressed as soon as possible.
+
+## 6. Contributors & Acknowledgements
+Contributors who provides  
+Acknowledgement about verification method
+
+## 7. How to cite
+[Verification] : Climate Action Reserve
+
+## 8. Disclaimer
 Any claims against the Institute stemming from the use of any GitHub-related project will be governed.
 
 
