@@ -4,8 +4,8 @@
 General introduction to S2S Verification tools described here!
 
 ## 2. Contents
-> (1) Deterministic
-> (2) Probabilistic
+> (1) Deterministic </br>
+> (2) Probabilistic </br>
 > (3) and so forth
 
 ## 3. Installation Instructions
